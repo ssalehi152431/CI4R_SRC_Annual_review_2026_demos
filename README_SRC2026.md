@@ -2,7 +2,7 @@
 
 Posters and demo videos presented by the NC State radar group (PI: Dr. Sevgi Z. Gurbuz, Department of Electrical & Computer Engineering) at the SRC Annual Review 2026, Georgia Tech. <!-- TODO: add event dates and the SRC center/theme name -->
 
-**Award:** Best Simulation Poster Award <!-- TODO: say which poster won -->
+**Award:** Best Poster Award under Simulation category.
 
 The three posters share one application: finding and assessing survivors in disaster response, where there is no light, no line of sight, and no ground truth data.
 
@@ -10,9 +10,9 @@ The three posters share one application: finding and assessing survivors in disa
 
 | # | Title | Authors | File |
 |---|-------|---------|------|
-| 2.1 | Radar-based Heart-Rate Sensing in Emergency Response Scenarios | Muhammad Moiz, Sultanus Salehin | [PDF](posters/2.1_heart_rate_sensing.pdf) · [PPTX](posters/2.1_heart_rate_sensing.pptx) |
-| 2.2 | Physics-Aware Machine Learning for Real-World Human Activity Recognition | Kamrul Islam, Sultanus Salehin | [PDF](posters/2.2_human_activity_recognition.pdf) · [PPTX](posters/2.2_human_activity_recognition.pptx) |
-| 2.9 | Physics-Aware AI for Adaptive In-Situ Learning in Radar-based ATR | Sultanus Salehin, Sean Kearney, Kamrul Islam, Muhammad Moiz, Sevgi Z. Gurbuz | [PDF](posters/2.9_adaptive_in_situ_learning_atr.pdf) · [PPTX](posters/2.9_adaptive_in_situ_learning_atr.pptx) |
+| 2.1 | Radar-based Heart-Rate Sensing in Emergency Response Scenarios | Muhammad Moiz, Sultanus Salehin 
+| 2.2 | Physics-Aware Machine Learning for Real-World Human Activity Recognition | Kamrul Islam, Sultanus Salehin 
+| 2.9 | Physics-Aware AI for Adaptive In-Situ Learning in Radar-based ATR | Sultanus Salehin, Sean Kearney, Kamrul Islam, Muhammad Moiz, Sevgi Z. Gurbuz 
 
 ### 2.1 Heart-rate sensing under body motion
 
@@ -56,12 +56,9 @@ demos/     recorded demo videos
 
 ## Team
 
-Sultanus Salehin, Kamrul Islam, Muhammad Moiz, Sean Kearney, Nazifa <!-- TODO: full name and role -->, Dr. Sevgi Z. Gurbuz (PI)
+Sultanus Salehin, Kamrul Islam, Muhammad Moiz, Sean Kearney, Dr. Sevgi Z. Gurbuz (PI)
 
 ## Acknowledgment
 
-This work was supported by the Semiconductor Research Corporation (SRC). <!-- TODO: add center name and task ID as required by SRC -->
+This work was supported by the Semiconductor Research Corporation (SRC).
 
-## Contact
-
-<!-- TODO: contact name and email -->
